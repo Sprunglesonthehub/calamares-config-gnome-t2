@@ -1,4 +1,4 @@
-# calamares-config
+# calamares-config-t2
 
 # AcreetionOS Calamares Configuration & Boot Fix
 
